@@ -1,0 +1,283 @@
+[
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508876415000,
+            "changeTime": 1508876415000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508876415000,
+            "changeTime": 1508876415000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "de4e9ffbcbe0bdf4b867716c7903a67f73b8ae34"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1508875132000,
+            "changeTime": 1508875132000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1508876410000,
+            "changeTime": 1508876410000,
+            "contentHash": "26ebadaba1cd2b15b845693fc19467617315d881",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects/Demo_Request__c/Demo_Request__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects/Demo_Request__c/Demo_Request__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2225,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "42d4c274624e56f499dfde2b09af9ee97064ff2a"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects/Demo_Request__c/fields/Demo_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects/Demo_Request__c/fields/Demo_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 312,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "82dd4ead4d6c6f0e788cdb7b355a866c365e8370"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/layouts/Demo_Request__c-Demo Request Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/layouts/Demo_Request__c-Demo Request Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2086,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "b235b0f221a5966f2d691363f4fcc1b96e95471f"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/tabs/Demo_Request__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/tabs/Demo_Request__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "2fa3f041d5583326b71de41103a1438aa7fbc35b"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17654,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "1e6b307a028f039b894c3ccc96bac25875b939fd"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4842,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "4b2f61f2283f88ba743c9652f3de5eb27b5a37f7"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4504,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "3d981465587ded734cc1e6c26d38ab90c64a0abd"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4504,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "3d981465587ded734cc1e6c26d38ab90c64a0abd"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/permissionsets/Demo_Request_User.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/permissionsets/Demo_Request_User.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 814,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "62e624b9bf233760b5846ec0f08805c34cbf11ac"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects/Demo_Request__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects/Demo_Request__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "829315ad93e7edcbad313502946ecd79b0bdc4cf"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "62418bb50bdf3aee7da47ca390867282cb01000b"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects/Demo_Request__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/objects/Demo_Request__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "9925ff5030118b72c5fd9a344975f20ad6497d74"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "fb6a96d7618c6f2b6b56f8ed233a63c4cfcd26bf"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "a6caed982d254f6f1d2171fd632d2bab7ef3ce9d"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508879000000,
+            "changeTime": 1508879000000,
+            "contentHash": "ce8287976fbed6e3935fa27f2cbe052f1ab471ed"
+        }
+    ]
+]

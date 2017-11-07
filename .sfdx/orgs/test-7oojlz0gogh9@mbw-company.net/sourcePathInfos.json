@@ -204,7 +204,7 @@
             "changeTime": 1508879000000,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -219,7 +219,7 @@
             "changeTime": 1508879000000,
             "contentHash": "1e6b307a028f039b894c3ccc96bac25875b939fd",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -234,7 +234,7 @@
             "changeTime": 1508879000000,
             "contentHash": "3d981465587ded734cc1e6c26d38ab90c64a0abd",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -249,7 +249,7 @@
             "changeTime": 1508879000000,
             "contentHash": "3d981465587ded734cc1e6c26d38ab90c64a0abd",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -264,7 +264,7 @@
             "changeTime": 1508879000000,
             "contentHash": "4b2f61f2283f88ba743c9652f3de5eb27b5a37f7",
             "isMetadataFile": true,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -304,10 +304,10 @@
         {
             "sourcePath": "/Users/mbwhite01/Documents/df17demo/df17-demo",
             "isDirectory": true,
-            "size": 340,
-            "modifiedTime": 1508876410000,
-            "changeTime": 1508876410000,
-            "contentHash": "26ebadaba1cd2b15b845693fc19467617315d881",
+            "size": 374,
+            "modifiedTime": 1510067844000,
+            "changeTime": 1510067844000,
+            "contentHash": "4b638fcf3f7256a765638a030aafae2579a68f14",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true,

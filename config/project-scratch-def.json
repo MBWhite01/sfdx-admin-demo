@@ -1,6 +1,7 @@
 {
     "orgName": "MBW-Company",
     "edition": "Developer",
+    "description": "Dreamforce2017 #AwesomeAdmin Demo",
     "hasSampleData": "true",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
